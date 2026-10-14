@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Yash Kanoje 👋</h1>
 
 <p align="center">
-  Computer Vision · Video Analytics · Image Processing · Python Automation
+  AI / ML · Deep Learning · Computer Vision · Video Analytics · Python
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
 
 ## 👨‍💻 About me
 
-I'm an M.Tech student in **Signal & Image Processing at NIT Rourkela**, with a B.Tech in Computer Science. I build systems that turn images and video into useful information, from depth estimation with stereo cameras to video analytics pipelines and Python tools that automate repetitive work.
+I'm an M.Tech student in **Signal & Image Processing at NIT Rourkela**, with a B.Tech in Computer Science, building toward a career in **AI and machine learning**. I build ML-powered systems that turn images and video into useful information, from stereo depth estimation to object detection and tracking pipelines, plus Python tools that automate repetitive work.
 
-I'm especially interested in where vision meets the real world: **quality inspection, process monitoring, and operations on the factory floor**.
+I'm especially interested in applying AI to real-world problems: **intelligent automation, visual quality inspection, and process monitoring**.
 
-- 🔭 **Focus:** computer vision, video analytics, image processing
-- 🏭 **Interested in:** applying CV to manufacturing and operations
-- 🌱 **Learning:** deep learning for vision and deploying models to production
-- 🤝 **Open to:** internships in computer vision, automation, and operations
+- 🤖 **Focus:** AI/ML, deep learning, computer vision, video analytics
+- 🏭 **Interested in:** applying AI/ML to real-world problems in manufacturing and operations
+- 🌱 **Learning:** deep learning, transformers and generative AI, and deploying ML models to production
+- 🤝 **Open to:** AI/ML engineer, machine learning, and computer vision roles and internships
 
 ## 🛠️ Tech stack
 
@@ -29,7 +29,7 @@ I'm especially interested in where vision meets the real world: **quality inspec
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white"/>
 
-**Computer vision & ML**
+**AI / ML & Computer Vision**
 <br/>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
