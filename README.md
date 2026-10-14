@@ -1,14 +1,11 @@
 <h1 align="center">Hi, I'm Yash Kanoje 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/yashkanoje">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Vision+%26+Image+Processing;Video+Analytics+%7C+Stereo+Vision;Python+Automation;M.Tech+%40+NIT+Rourkela" alt="Typing intro" />
-  </a>
+  Computer Vision · Video Analytics · Image Processing · Python Automation
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yash-kanoje-2187991bb/"><img src="https://img.shields.io/badge/LinkedIn-Yash%20Kanoje-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <img src="https://komarev.com/ghpvc/?username=yashkanoje&style=for-the-badge&color=2F81F7&label=Profile+views" alt="Profile views"/>
 </p>
 
 ---
@@ -53,16 +50,11 @@ I'm especially interested in where vision meets the real world: **quality inspec
 | M.Tech, Signal & Image Processing | NIT Rourkela | 2025 – present |
 | B.Tech, Computer Science Engineering | UIT RGPV, Bhopal | 2020 – 2024 |
 
-## 📊 GitHub stats
+## 🚀 Featured project
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=yashkanoje&show_icons=true&hide_border=true&count_private=true&theme=github_dark" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashkanoje&layout=compact&hide_border=true&theme=github_dark" alt="Top languages"/>
-</p>
+### [Vehicle Analytics](https://github.com/yashkanoje/vehicle-analytics)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashkanoje&hide_border=true&theme=github-dark-blue" alt="Contribution streak"/>
-</p>
+Vehicle counting and speed estimation from fixed-camera video, with uncertainty estimates. Built with **YOLO** for detection and **DeepSORT** for multi-object tracking.
 
 ---
 <p align="center"><i>Every image is just a matrix waiting to tell a story.</i></p>
